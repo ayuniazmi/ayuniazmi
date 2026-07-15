@@ -15,10 +15,10 @@ I bring something most SA candidates don't: I've sat in the room where the archi
 
 | Project | Stack | What it demonstrates |
 |---------|-------|----------------------|
-| [🤖 Serverless Document Q&A](https://github.com/ayuuuni/bedrock-doc-qa) | Amazon Bedrock · S3 · Lambda · API Gateway · CDK | GenAI architecture, RAG on AWS, Responsible AI (Guardrails), IaC |
-| [🏗️ Three-Tier Web App on ECS](https://github.com/ayuuuni/three-tier-ecs) | VPC · ECS Fargate · RDS · ALB · CloudFront · CDK | VPC design, containers, managed database, Auto Scaling |
-| [📊 Event-Driven Data Pipeline](https://github.com/ayuuuni/serverless-pipeline) | S3 · Lambda · SQS · DynamoDB · EventBridge · Athena | Decoupled architecture, analytics stack, failure handling (DLQ) |
-| [🏛️ Legacy-to-Cloud Migration](https://github.com/ayuuuni/legacy-migration-aws) | AWS DMS · Aurora · MAP Framework · 7Rs | Migration methodology, legacy modernisation, AWS DMS proof of concept |
+| [🤖 Serverless Document Q&A](https://github.com/ayuniazmi/bedrock-doc-qa) | Amazon Bedrock · S3 · Lambda · API Gateway · CDK | GenAI architecture, RAG on AWS, Responsible AI (Guardrails), IaC |
+| [🏗️ Three-Tier Web App on ECS](https://github.com/ayuniazmi/three-tier-ecs) | VPC · ECS Fargate · RDS · ALB · CloudFront · CDK | VPC design, containers, managed database, Auto Scaling |
+| [📊 Event-Driven Data Pipeline](https://github.com/ayuniazmi/serverless-pipeline) | S3 · Lambda · SQS · DynamoDB · EventBridge · Athena | Decoupled architecture, analytics stack, failure handling (DLQ) |
+| [🏛️ Legacy-to-Cloud Migration](https://github.com/ayuniazmi/legacy-migration-aws) | AWS DMS · Aurora · MAP Framework · 7Rs | Migration methodology, legacy modernisation, AWS DMS proof of concept |
 
 ---
 
