@@ -1,7 +1,7 @@
 # Ayuni Azmi
 
 **Business Analyst → AWS Solutions Architect in progress**  
-Singapore · [LinkedIn](https://linkedin.com/in/ayuniazmi) · ayuuniaz@gmail.com
+Singapore · [Website](https://ayuniazmi.github.io/) · [LinkedIn](https://linkedin.com/in/ayuniazmi) · ayuuniaz@gmail.com
 
 ---
 
