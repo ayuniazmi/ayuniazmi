@@ -1,11 +1,11 @@
 # Ayuni Azmi
 
-**Business Analyst → AWS Solutions Architect in progress**  
+**AI Engineer → AWS Solutions Architect in progress**  
 Singapore · [Website](https://ayuniazmi.github.io/) · [LinkedIn](https://linkedin.com/in/ayuniazmi) · ayuuniaz@gmail.com
 
 ---
 
-Former educator, Google Cloud engineer, now a Business Analyst on large-scale government AI projects at NCS — and actively building toward an AWS Solutions Architect role.
+Former educator, Google Cloud engineer, now a AI Engineer on large-scale government AI projects at NCS — and actively building toward an AWS Solutions Architect role.
 
 I bring something most SA candidates don't: I've sat in the room where the architectural decisions land on a BA's desk. I've mapped 18 user stories across 5 business personas for a $10M government AI tender, escalated legacy system risks on a 50M-document corpus, and evaluated RAG solutions across 4 vendors over 5 cadence cycles. That context shapes how I build.
 
