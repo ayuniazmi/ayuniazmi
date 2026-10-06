@@ -46,7 +46,7 @@ At **NCS**, I'm a AI Engineer across three concurrent government and enterprise 
 
 ## Background
 
-`8 years MOE Education Officer` → `Google Customer Engineer (Workspace + Gemini)` → `NCS Business Analyst (Government AI + Cloud)`
+`8 years MOE Education Officer` → `Google Customer Engineer (Workspace + Gemini)` → `NCS AI Engineer (Government AI + Cloud)`
 
 The through-line: I've always worked at the intersection of complex systems and the people who depend on them. Now I'm building the technical depth to design those systems myself.
 
