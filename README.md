@@ -36,7 +36,7 @@ I bring something most SA candidates don't: I've sat in the room where the archi
 
 ## Current work
 
-At **NCS**, I'm a BA across three concurrent government and enterprise engagements:
+At **NCS**, I'm a AI Engineer across three concurrent government and enterprise engagements:
 
 - **HDB AI Knowledge Management System** — $10M government AI tender. Requirements, risk documentation, vendor evaluation (Glean, Mistral, AWS Quick Start, bespoke RAG). Working directly with architects on fixed-price delivery strategy.
 - **LighTool (AI EdTech Platform)** — UAT design and language bank for a GCP/Gemini-based learning platform.
